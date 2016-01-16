@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "",
+  "dependencies": {
+    "appium": "1.4.16"
+  },
+  "license": "private",
+  "engines": {
+    "node": ">= 0.12"
+  }
+}
