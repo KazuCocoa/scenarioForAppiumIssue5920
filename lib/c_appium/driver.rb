@@ -16,6 +16,7 @@ module AppiumCustomDriver
 
   # return [Driver]
   def driver_start(desired_capabilities, server_caps)
+    puts [driver_start_with]
 
     caps = { caps: desired_capabilities, appium_lib: server_caps }
 
